@@ -1,0 +1,38 @@
+=== Resultados ===
+Costo total operativo: 182708.15 COP
+
+Recorridos asignados por vehículo:
+
+Vehículo V1:
+  No tiene asignaciones.
+
+Vehículo V2:
+  Recorrido: [('C3', 'D9'), ('C2', 'D5'), ('D5', 'C2'), ('D9', 'C3')]
+
+Vehículo V3:
+  No tiene asignaciones.
+
+Vehículo V4:
+  Recorrido: [('C4', 'C1'), ('C1', 'D5'), ('D6', 'C6'), ('C6', 'C4')]
+
+Vehículo V5:
+  Recorrido: [('C7', 'C8'), ('D4', 'C7'), ('C8', 'D4')]
+
+Vehículo V6:
+  Recorrido: [('C9', 'D7'), ('C5', 'D9'), ('D9', 'C5'), ('D7', 'C9')]
+
+Distancias totales recorridas:
+  Vehículo V1: 0.00 km
+  Vehículo V2: 8.10 km
+  Vehículo V3: 0.00 km
+  Vehículo V4: 16.87 km
+  Vehículo V5: 12.69 km
+  Vehículo V6: 6.96 km
+
+Pesos totales transportados:
+  Vehículo V1: 0.00 kg
+  Vehículo V2: 30.00 kg
+  Vehículo V3: 0.00 kg
+  Vehículo V4: 29.00 kg
+  Vehículo V5: 22.00 kg
+  Vehículo V6: 20.00 kg

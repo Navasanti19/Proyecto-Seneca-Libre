@@ -1,0 +1,68 @@
+=== Resultados ===
+Costo total operativo: 809477.01 COP
+
+Recorridos asignados por vehículo:
+
+Vehículo V1:
+  No tiene asignaciones.
+
+Vehículo V2:
+  No tiene asignaciones.
+
+Vehículo V3:
+  No tiene asignaciones.
+
+Vehículo V4:
+  No tiene asignaciones.
+
+Vehículo V5:
+  Recorrido: [('C16', 'D10'), ('C10', 'C16'), ('D10', 'C10')]
+
+Vehículo V6:
+  Recorrido: [('C2', 'D8'), ('C20', 'C14'), ('C23', 'C3'), ('C14', 'C23'), ('D1', 'C12'), ('C3', 'C2'), ('C12', 'C20')]
+
+Vehículo V7:
+  Recorrido: [('C8', 'C5'), ('C9', 'C8'), ('C5', 'C6'), ('D5', 'C9'), ('C6', 'C18'), ('C18', 'D6'), ('C24', 'D12'), ('D12', 'C24')]
+
+Vehículo V8:
+  Recorrido: [('C7', 'C19'), ('C19', 'D4'), ('D4', 'C7')]
+
+Vehículo V9:
+  Recorrido: [('C17', 'D5'), ('C4', 'C1'), ('C15', 'D7'), ('C1', 'C15'), ('D7', 'C4'), ('D5', 'C17')]
+
+Vehículo V10:
+  Recorrido: [('D5', 'C11'), ('C11', 'D5')]
+
+Vehículo V11:
+  Recorrido: [('C22', 'D7'), ('C21', 'D3'), ('D7', 'C22'), ('D3', 'C21')]
+
+Vehículo V12:
+  Recorrido: [('D11', 'C13'), ('C13', 'D11')]
+
+Distancias totales recorridas:
+  Vehículo V1: 0.00 km
+  Vehículo V2: 0.00 km
+  Vehículo V3: 0.00 km
+  Vehículo V4: 0.00 km
+  Vehículo V5: 9.02 km
+  Vehículo V6: 27.50 km
+  Vehículo V7: 24.76 km
+  Vehículo V8: 16.32 km
+  Vehículo V9: 15.42 km
+  Vehículo V10: 9.51 km
+  Vehículo V11: 12.87 km
+  Vehículo V12: 5.00 km
+
+Pesos totales transportados:
+  Vehículo V1: 0.00 kg
+  Vehículo V2: 0.00 kg
+  Vehículo V3: 0.00 kg
+  Vehículo V4: 0.00 kg
+  Vehículo V5: 25.00 kg
+  Vehículo V6: 84.00 kg
+  Vehículo V7: 100.00 kg
+  Vehículo V8: 28.00 kg
+  Vehículo V9: 70.00 kg
+  Vehículo V10: 17.00 kg
+  Vehículo V11: 32.00 kg
+  Vehículo V12: 21.00 kg
