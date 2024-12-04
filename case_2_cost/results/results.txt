@@ -1,5 +1,5 @@
 === Resultados ===
-Costo total operativo: 606845.72 COP
+Costo total operativo: 721368.61 COP
 
 Recorridos asignados por vehículo:
 
@@ -10,29 +10,29 @@ Vehículo V2:
   No tiene asignaciones.
 
 Vehículo V3:
-  Recorrido: [('C1', 'D8'), ('C9', 'C3'), ('D6', 'C15'), ('C25', 'D5'), ('C17', 'C9'), ('D5', 'C25'), ('C10', 'C17'), ('D8', 'C10'), ('C16', 'C14'), ('C3', 'C2'), ('C14', 'D6'), ('C15', 'C16'), ('C2', 'C1')]
+  Recorrido: [('C7', 'C29'), ('C29', 'C13'), ('C25', 'D5'), ('D5', 'C8'), ('C8', 'C23'), ('C5', 'C6'), ('C23', 'C12'), ('C13', 'C25'), ('C12', 'C5'), ('C6', 'C7')]
 
 Vehículo V4:
-  Recorrido: [('C27', 'D1'), ('C22', 'C21'), ('C18', 'C20'), ('C4', 'C27'), ('C24', 'C19'), ('C8', 'C23'), ('C19', 'D7'), ('D8', 'C18'), ('C20', 'C11'), ('C5', 'C12'), ('C21', 'C4'), ('C23', 'C5'), ('D12', 'C8'), ('C26', 'C24'), ('C12', 'C26'), ('C11', 'C22')]
+  Recorrido: [('C27', 'D1'), ('C1', 'C16'), ('C9', 'C3'), ('D1', 'C4'), ('C4', 'C27'), ('D7', 'C26'), ('C17', 'C9'), ('C24', 'C19'), ('C10', 'C17'), ('C19', 'D7'), ('D8', 'C10'), ('C16', 'C14'), ('C20', 'C1'), ('C3', 'C2'), ('C14', 'C15'), ('C26', 'C24'), ('C15', 'D8'), ('C2', 'C20')]
 
 Vehículo V5:
-  Recorrido: [('C7', 'D12'), ('D2', 'C28'), ('D12', 'C6'), ('C6', 'C7'), ('C28', 'D2')]
+  Recorrido: [('C22', 'D4'), ('D4', 'C11'), ('C21', 'C22'), ('C11', 'C21')]
 
 Vehículo V6:
-  Recorrido: [('C29', 'C13'), ('D4', 'C30'), ('D5', 'C29'), ('C30', 'D4'), ('C13', 'D5')]
+  Recorrido: [('C18', 'D11'), ('D4', 'C30'), ('C30', 'D4'), ('D11', 'C18'), ('D10', 'C28'), ('C28', 'D10')]
 
 Distancias totales recorridas:
-  Vehículo V1: 0.00 km
-  Vehículo V2: 0.00 km
-  Vehículo V3: 36.58 km
-  Vehículo V4: 55.41 km
-  Vehículo V5: 14.23 km
-  Vehículo V6: 13.04 km
+  Vehículo V1: -0.00 km
+  Vehículo V2: -0.00 km
+  Vehículo V3: 35.79 km
+  Vehículo V4: 56.51 km
+  Vehículo V5: 15.90 km
+  Vehículo V6: 12.12 km
 
 Pesos totales transportados:
-  Vehículo V1: 0.00 kg
-  Vehículo V2: 0.00 kg
-  Vehículo V3: 80.00 kg
-  Vehículo V4: 109.00 kg
-  Vehículo V5: 22.00 kg
-  Vehículo V6: 21.00 kg
+  Vehículo V1: -0.00 kg
+  Vehículo V2: -0.00 kg
+  Vehículo V3: 74.00 kg
+  Vehículo V4: 120.00 kg
+  Vehículo V5: 18.00 kg
+  Vehículo V6: 20.00 kg

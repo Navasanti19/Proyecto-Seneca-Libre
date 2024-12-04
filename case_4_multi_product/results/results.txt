@@ -1,0 +1,89 @@
+=== Resultados ===
+Costo total operativo: 232500.00 COP
+
+Recorridos asignados por vehículo:
+
+Vehículo V1:
+  No tiene asignaciones.
+
+Vehículo V2:
+  No tiene asignaciones.
+
+Vehículo V3:
+  No tiene asignaciones.
+
+Vehículo V4:
+  No tiene asignaciones.
+
+Vehículo V5:
+  No tiene asignaciones.
+
+Vehículo V6:
+  No tiene asignaciones.
+
+Distancias totales recorridas:
+  Vehículo V1: 0.00 km
+  Vehículo V2: 0.00 km
+  Vehículo V3: 0.00 km
+  Vehículo V4: 0.00 km
+  Vehículo V5: 0.00 km
+  Vehículo V6: 0.00 km
+
+Pesos totales transportados por vehículo y por producto:
+
+Vehículo V1:
+  Producto A: -0.00 kg
+  Producto B: -0.00 kg
+  Producto C: -0.00 kg
+
+Vehículo V2:
+  Producto A: 111.00 kg
+  Producto B: 0.00 kg
+  Producto C: 0.00 kg
+
+Vehículo V3:
+  Producto A: 70.00 kg
+  Producto B: -0.00 kg
+  Producto C: 1.00 kg
+
+Vehículo V4:
+  Producto A: -0.00 kg
+  Producto B: -0.00 kg
+  Producto C: -0.00 kg
+
+Vehículo V5:
+  Producto A: 120.00 kg
+  Producto B: 1.00 kg
+  Producto C: 0.00 kg
+
+Vehículo V6:
+  Producto A: 0.00 kg
+  Producto B: 0.00 kg
+  Producto C: 0.00 kg
+
+Pesos transportados por vehículo desde cada depósito y por producto:
+
+Vehículo V1:
+
+Vehículo V2:
+  Desde Depósito D7, Producto A: 111.00 kg
+
+Vehículo V3:
+  Desde Depósito D5, Producto A: 70.00 kg
+  Desde Depósito D5, Producto C: 1.00 kg
+
+Vehículo V4:
+
+Vehículo V5:
+  Desde Depósito D12, Producto A: 120.00 kg
+  Desde Depósito D12, Producto B: 1.00 kg
+
+Vehículo V6:
+
+Costo por peso transportado:
+  Vehículo V1: 0.00 COP
+  Vehículo V2: 55500.00 COP
+  Vehículo V3: 35500.00 COP
+  Vehículo V4: 0.00 COP
+  Vehículo V5: 60500.00 COP
+  Vehículo V6: 0.00 COP
