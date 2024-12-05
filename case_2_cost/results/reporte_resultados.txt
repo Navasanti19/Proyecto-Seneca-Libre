@@ -1,5 +1,5 @@
 === Resultados ===
-Costo total operativo: 1144150.11 COP
+Costo total operativo: 1109798.65 COP
 
 Recorridos asignados por vehículo:
 
@@ -7,32 +7,32 @@ Vehículo V1:
   No tiene asignaciones.
 
 Vehículo V2:
-  No tiene asignaciones.
+  Ruta: D5 -> C25 -> C23 -> C24 -> C1 -> C10 -> C18 -> C15 -> C14 -> C16 -> C2 -> C20 -> D5
 
 Vehículo V3:
-  Ruta: D7 -> C8 -> C23 -> C25 -> C13 -> C20 -> C24 -> C19 -> C1 -> C18 -> C26 -> D7
+  No tiene asignaciones.
 
 Vehículo V4:
-  Ruta: D12 -> C7 -> C29 -> C14 -> C3 -> C9 -> C17 -> C10 -> C2 -> C16 -> C15 -> C22 -> C21 -> C27 -> C11 -> C12 -> C5 -> D12
+  Ruta: D10 -> C8 -> C12 -> C5 -> C19 -> C26 -> C11 -> C21 -> C22 -> C9 -> C3 -> C17 -> C29 -> C28 -> D10
 
 Vehículo V5:
-  Ruta: D10 -> C6 -> C28 -> D10
+  Ruta: D4 -> C30 -> C4 -> C27 -> D4
 
 Vehículo V6:
-  Ruta: D4 -> C4 -> C30 -> D4
+  Ruta: D5 -> C7 -> C6 -> C13 -> D5
 
 Distancias totales recorridas:
   Vehículo V1: 0.00 km
-  Vehículo V2: 0.00 km
-  Vehículo V3: 61.49 km
-  Vehículo V4: 137.54 km
-  Vehículo V5: 16.13 km
-  Vehículo V6: 10.31 km
+  Vehículo V2: 64.33 km
+  Vehículo V3: 0.00 km
+  Vehículo V4: 110.56 km
+  Vehículo V5: 10.61 km
+  Vehículo V6: 12.91 km
 
 Pesos totales transportados:
   Vehículo V1: -0.00 kg
-  Vehículo V2: -0.00 kg
-  Vehículo V3: 88.00 kg
-  Vehículo V4: 116.00 kg
-  Vehículo V5: 15.00 kg
-  Vehículo V6: 13.00 kg
+  Vehículo V2: 88.00 kg
+  Vehículo V3: 0.00 kg
+  Vehículo V4: 103.00 kg
+  Vehículo V5: 21.00 kg
+  Vehículo V6: 20.00 kg
