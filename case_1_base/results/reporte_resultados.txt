@@ -37,7 +37,7 @@ Vehículo V11:
   Ruta: D6 -> C6 -> C18 -> D6
 
 Vehículo V12:
-  Ruta: D10 -> C16 -> C10 -> D10
+  Ruta: D6 -> C18 -> C3 -> D8
 
 Distancias totales recorridas:
   Vehículo V1: 0.00 km
