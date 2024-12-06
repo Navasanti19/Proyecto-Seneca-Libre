@@ -1,5 +1,5 @@
 === Resultados ===
-Costo total operativo: 873544.96 COP
+Costo total operativo: 760509.80 COP
 
 Recorridos asignados por vehículo:
 
@@ -10,31 +10,31 @@ Vehículo V2:
   No tiene asignaciones.
 
 Vehículo V3:
-  Ruta: D7 -> C4 -> C1 -> C15 -> D7
+  No tiene asignaciones.
 
 Vehículo V4:
   No tiene asignaciones.
 
 Vehículo V5:
-  Ruta: D8 -> C13 -> C22 -> C17 -> C24 -> D12
-
-Vehículo V6:
-  No tiene asignaciones.
-
-Vehículo V7:
   Ruta: D9 -> C3 -> C23 -> C14 -> C20 -> C12 -> D1
 
+Vehículo V6:
+  Ruta: D7 -> C15 -> C4 -> C1 -> C17 -> C24 -> D12
+
+Vehículo V7:
+  Ruta: D1 -> C21 -> C7 -> C19 -> C2 -> C13 -> C22 -> D7
+
 Vehículo V8:
-  Ruta: D5 -> C9 -> C8 -> C11 -> D5
+  No tiene asignaciones.
 
 Vehículo V9:
-  Ruta: D1 -> C21 -> C7 -> C19 -> C2 -> D8
+  Ruta: D5 -> C9 -> C8 -> C5 -> D5
 
 Vehículo V10:
-  Ruta: D6 -> C5 -> D5
+  Ruta: D5 -> C11 -> D5
 
 Vehículo V11:
-  Ruta: D11 -> C6 -> C18 -> D6
+  Ruta: D6 -> C6 -> C18 -> D6
 
 Vehículo V12:
   Ruta: D10 -> C16 -> C10 -> D10
@@ -42,27 +42,27 @@ Vehículo V12:
 Distancias totales recorridas:
   Vehículo V1: 0.00 km
   Vehículo V2: 0.00 km
-  Vehículo V3: 8.92 km
+  Vehículo V3: 0.00 km
   Vehículo V4: 0.00 km
-  Vehículo V5: 22.27 km
-  Vehículo V6: 0.00 km
-  Vehículo V7: 19.60 km
-  Vehículo V8: 26.34 km
-  Vehículo V9: 30.06 km
-  Vehículo V10: 9.90 km
-  Vehículo V11: 2.68 km
+  Vehículo V5: 19.60 km
+  Vehículo V6: 14.92 km
+  Vehículo V7: 38.23 km
+  Vehículo V8: 0.00 km
+  Vehículo V9: 18.59 km
+  Vehículo V10: 9.51 km
+  Vehículo V11: 2.77 km
   Vehículo V12: 5.37 km
 
 Pesos totales transportados:
-  Vehículo V1: -0.00 kg
-  Vehículo V2: -0.00 kg
-  Vehículo V3: 45.00 kg
-  Vehículo V4: -0.00 kg
-  Vehículo V5: 75.00 kg
-  Vehículo V6: -0.00 kg
-  Vehículo V7: 69.00 kg
-  Vehículo V8: 57.00 kg
-  Vehículo V9: 57.00 kg
-  Vehículo V10: 20.00 kg
+  Vehículo V1: 0.00 kg
+  Vehículo V2: 0.00 kg
+  Vehículo V3: 0.00 kg
+  Vehículo V4: 0.00 kg
+  Vehículo V5: 69.00 kg
+  Vehículo V6: 81.00 kg
+  Vehículo V7: 96.00 kg
+  Vehículo V8: 0.00 kg
+  Vehículo V9: 60.00 kg
+  Vehículo V10: 17.00 kg
   Vehículo V11: 29.00 kg
   Vehículo V12: 25.00 kg
