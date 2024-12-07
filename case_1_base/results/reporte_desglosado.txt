@@ -1,0 +1,91 @@
+=== Reporte Desglosado ===
+Vehículo V1:
+  Costo por distancia: 0.00 COP
+  Costo por tiempo: 0.00 COP
+  Costo por peso transportado: 0.00 COP
+  Costo de mantenimiento diario: 0.00 COP
+  Costo total: 0.00 COP
+
+Vehículo V2:
+  Costo por distancia: 0.00 COP
+  Costo por tiempo: 0.00 COP
+  Costo por peso transportado: 0.00 COP
+  Costo de mantenimiento diario: 0.00 COP
+  Costo total: 0.00 COP
+
+Vehículo V3:
+  Costo por distancia: 0.00 COP
+  Costo por tiempo: 0.00 COP
+  Costo por peso transportado: 0.00 COP
+  Costo de mantenimiento diario: 0.00 COP
+  Costo total: 0.00 COP
+
+Vehículo V4:
+  Costo por distancia: 0.00 COP
+  Costo por tiempo: 0.00 COP
+  Costo por peso transportado: 0.00 COP
+  Costo de mantenimiento diario: 0.00 COP
+  Costo total: 0.00 COP
+
+Vehículo V5:
+  Costo por distancia: 107199.20 COP
+  Costo por tiempo: 18334.17 COP
+  Costo por peso transportado: 42000.00 COP
+  Costo de mantenimiento diario: 21000.00 COP
+  Costo total: 188533.37 COP
+
+Vehículo V6:
+  Costo por distancia: 77264.00 COP
+  Costo por tiempo: 16258.33 COP
+  Costo por peso transportado: 42000.00 COP
+  Costo de mantenimiento diario: 21000.00 COP
+  Costo total: 156522.33 COP
+
+Vehículo V7:
+  Costo por distancia: 112485.20 COP
+  Costo por tiempo: 26159.17 COP
+  Costo por peso transportado: 48000.00 COP
+  Costo de mantenimiento diario: 21000.00 COP
+  Costo total: 207644.37 COP
+
+Vehículo V8:
+  Costo por distancia: 0.00 COP
+  Costo por tiempo: 0.00 COP
+  Costo por peso transportado: 0.00 COP
+  Costo de mantenimiento diario: 0.00 COP
+  Costo total: 0.00 COP
+
+Vehículo V9:
+  Costo por distancia: 91626.00 COP
+  Costo por tiempo: 20228.33 COP
+  Costo por peso transportado: 21000.00 COP
+  Costo de mantenimiento diario: 21000.00 COP
+  Costo total: 153854.33 COP
+
+Vehículo V10:
+  Costo por distancia: 4.76 COP
+  Costo por tiempo: 10760.25 COP
+  Costo por peso transportado: 8500.00 COP
+  Costo de mantenimiento diario: 3000.00 COP
+  Costo total: 22265.01 COP
+
+Vehículo V11:
+  Costo por distancia: 1.38 COP
+  Costo por tiempo: 6658.20 COP
+  Costo por peso transportado: 14500.00 COP
+  Costo de mantenimiento diario: 3000.00 COP
+  Costo total: 24159.58 COP
+
+Vehículo V12:
+  Costo por distancia: 2.69 COP
+  Costo por tiempo: 6712.05 COP
+  Costo por peso transportado: 12500.00 COP
+  Costo de mantenimiento diario: 3000.00 COP
+  Costo total: 22214.74 COP
+
+=== Totales ===
+Costo total por distancia: 388583.23 COP
+Costo total por tiempo: 105110.50 COP
+Costo total por peso transportado: 188500.00 COP
+Costo total por mantenimiento: 93000.00 COP
+Costo total operativo: 775193.73 COP
